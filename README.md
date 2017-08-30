@@ -1,6 +1,10 @@
 # docker-lamp
 Building LAMP Development Environments Using Docker
 
+*   Apache
+*   MySQL
+*   PHP
+
 # Requirement
 
 Install Docker And Docker Compose
